@@ -1,0 +1,5 @@
+config BR2_PACKAGE_LDD
+    bool "ldd (LWN’s Linux Device Drivers code)"
+    help
+      Builds & installs the misc-modules and scull from your ldd3 fork.
+
